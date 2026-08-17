@@ -1,0 +1,4 @@
+*.exe
+*.tmp
+run.log
+cache/
